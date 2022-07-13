@@ -7,7 +7,7 @@
 highly responsive user interface components by using React concepts and building smart contracts by using Solidity.
 Proficient in designing wireframes and converting them into high-quality codes to build application interfaces via
 JavaScript and React workflows. Adept at improving frontend performance by testing & debugging codes to boost
-overall performance while delivering maximum client satisfaction.Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using solidity, rust and web3. 
+overall performance while delivering maximum client satisfaction. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks.Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using solidity, rust and web3. 
 </p>
 <br/>
 <br/>
