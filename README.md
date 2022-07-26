@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React,JavaScript,Node.Js,Solidity,Web3.js**
 
-- 📫 How to reach me **terrykeeley00@gmail.com**
+- 📫 How to reach me **smartadamjones@gmail.com**
 
 - ⚡ Fun fact **I love to code**
 
