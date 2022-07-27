@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Adam Jones <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Hello, everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
@@ -14,8 +14,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/happytomorrow/](https://github.com/happytomorrow/)
 
 - 💬 Ask me about **React,JavaScript,Node.Js,Solidity,Web3.js**
-
-- 📫 How to reach me **smartadamjones@gmail.com**
 
 - ⚡ Fun fact **I love to code**
 
