@@ -7,7 +7,7 @@
 
 <h3> 🧑 I'm a Full Stack & Blockchain Developer!!</h3>
 
-- 🔭 I’m currently working on [InstaPyBot](https://github.com/happytomorrow/AutomateInstaPyBot)
+- 🔭 I’m currently working on [InstaPyBot](https://github.com/gitdev0106/AutomateInstaPyBot)
 
 - 🌱 I’m currently learning **Everything 🤣**
 
