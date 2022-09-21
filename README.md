@@ -7,11 +7,11 @@
 
 <h3> 🧑 I'm a Senior Front End Developer!!</h3>
 
-- 🔭 I’m currently working on [InstaPyBot](https://github.com/gitdev0106/AutomateInstaPyBot)
+- 🔭 I’m currently working on [InstaPyBot](https://github.com/marlborocool/AutomateInstaPyBot)
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gitdev0106/](https://github.com/gitdev0106/)
+- 👨‍💻 All of my projects are available at [https://github.com/marlborocool/](https://github.com/marlborocool/)
 
 - 💬 Ask me about **React,JavaScript,Node.Js,Solidity,Web3.js**
 
