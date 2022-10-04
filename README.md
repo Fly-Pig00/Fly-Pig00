@@ -5,7 +5,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-<h3> 🧑 I'm a Senior Front End Developer!!</h3>
+<h3> 🧑 I'm a Sr. Full Stack Blockchain developer!!</h3>
 
 - 🔭 I’m currently working on [InstaPyBot](https://github.com/marlborocool/AutomateInstaPyBot)
 
