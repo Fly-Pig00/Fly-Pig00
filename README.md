@@ -7,8 +7,6 @@
 
 <h3> 🧑 I'm a Sr. Full Stack developer!!</h3>
 
-- 🔭 I’m currently working on [InstaPyBot](https://github.com/marlborocool/AutomateInstaPyBot)
-
 - 🌱 I’m currently learning **Everything 🤣**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marlborocool/](https://github.com/marlborocool/)
