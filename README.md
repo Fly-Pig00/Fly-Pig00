@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marlborocool/](https://github.com/marlborocool/)
 
-- 💬 Ask me about **React, Node.Js, Rust, Python, Solidity, Web3.js**
+- 💬 Ask me about **React, Vue.js, Node.Js, PHP, Python, Solidity, Web3.js**
 
 - ⚡ Fun fact **I love to code**
 
