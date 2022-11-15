@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marlborocool/](https://github.com/marlborocool/)
 
-- 💬 Ask me about **React, Vue.js, Node.Js, PHP, WordPress, Laravel**
+- 💬 Ask me about **MERN, WordPress, Laravel**
 
 - ⚡ Fun fact **I love to code**
 
