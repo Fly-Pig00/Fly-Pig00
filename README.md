@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marlborocool/](https://github.com/marlborocool/)
 
-- 💬 Ask me about **React/Next.js, Node.js, WordPress, Laravel**
+- 💬 Ask me about **React/Next.js, Node.js, PHP, Laravel**
 
 - ⚡ Fun fact **I love to code**
 
