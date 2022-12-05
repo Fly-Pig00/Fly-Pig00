@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marlborocool/](https://github.com/marlborocool/)
 
-- 💬 Ask me about **React/Next.js, Vue.js, Node.js, Python, Django, Flask**
+- 💬 Ask me about **React/Next.js, Node.js, C#, ASP.NET**
 
 - ⚡ Fun fact **I love to code**
 
