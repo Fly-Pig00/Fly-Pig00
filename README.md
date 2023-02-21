@@ -12,12 +12,19 @@
 - 👨‍💻 All of my projects are available at [https://github.com/marlborocool/](https://github.com/marlborocool/)
 
 My skills:
+
 ✔️ Frontend Development: React/Next.js, Vue.js, Angular, HTML, CSS, JavaScript(ES6)/TypeScript, Bootstrap, Material UI, Tailwind CSS
+
 ✔️ Backend Development: Node.js/Nest.js/Express.js, PHP/Laravel
+
 ✔️ Testing Library: Jest, Cypress, React Testing library
+
 ✔️ Blockchain Development: Web3.js, Solidity, Rust, Smart Contract, DApp Development
+
 ✔️ API Integration: Restful APIs, GraphQL, Hasura, Stripe API, OpenAI, Twilio
+
 ✔️ Cloud: AWS, Microsoft Azure, GCP
+
 ✔️ Others: Git, Github, Bitbucket, Gitlab, Jira, Trello, Slack
 
 - ⚡ Fun fact **I love to code**
