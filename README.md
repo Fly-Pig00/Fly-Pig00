@@ -5,11 +5,14 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-<h3> 🧑 I'm a Sr. Full Stack developer!!</h3>
+<h3> 🧑 I'm a Web Master!!</h3>
 
 - 🌱 I’m currently learning **Everything 🤣**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marlborocool/](https://github.com/marlborocool/)
+
+- ⚡ Fun fact **I love to code**
+
 
 My skills:
 
@@ -27,7 +30,6 @@ My skills:
 
 ✔️ Others: Git, Github, Bitbucket, Gitlab, Jira, Trello, Slack
 
-- ⚡ Fun fact **I love to code**
 
 ## 🌐 Languages and Tools :
 <p align="left">
