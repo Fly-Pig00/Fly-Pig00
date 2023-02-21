@@ -18,7 +18,7 @@ My skills:
 
 ✔️ Frontend Development: React/Next.js, Vue.js, Angular, HTML, CSS, JavaScript(ES6)/TypeScript, Bootstrap, Material UI, Tailwind CSS
 
-✔️ Backend Development: Node.js/Nest.js/Express.js, PHP/Laravel
+✔️ Backend Development: Node.js/Nest.js/Express.js, PHP/Laravel, Ruby on rails
 
 ✔️ Testing Library: Jest, Cypress, React Testing library
 
