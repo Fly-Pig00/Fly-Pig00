@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I love to code**
 
 
-My skills:
+<h3> My skills: </h3>
 
 ✔️ Frontend Development: React/Next.js, Vue.js, Angular, HTML, CSS, JavaScript(ES6)/TypeScript, Bootstrap, Material UI, Tailwind CSS
 
