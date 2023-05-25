@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/marlborocool/](https://github.com/marlborocool/)
+- 👨‍💻 All of my projects are available at [https://github.com/Fly-Pig00/](https://github.com/marlborocool/)
 
 - ⚡ Fun fact **I love to code**
 
@@ -18,7 +18,7 @@
 
 ✔️ Frontend Development: React/Next.js, Vue.js, Angular, HTML, CSS, JavaScript(ES6)/TypeScript, Bootstrap, Material UI, Tailwind CSS
 
-✔️ Backend Development: Node.js/Nest.js/Express.js, PHP/Laravel, Ruby on rails
+✔️ Backend Development: Node.js/Nest.js/Express.js, Golang, PHP/Laravel, Ruby on rails
 
 ✔️ Testing Library: Jest, Cypress, React Testing library
 
