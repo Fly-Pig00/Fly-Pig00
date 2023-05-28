@@ -18,7 +18,7 @@
 
 ✔️ Frontend Development: React/Next.js, Vue.js, Angular, HTML, CSS, JavaScript(ES6)/TypeScript, Bootstrap, Material UI, Tailwind CSS
 
-✔️ Backend Development: Node.js/Nest.js/Express.js, Golang, PHP/Laravel, Ruby on rails, C#/ASP.NET
+✔️ Backend Development: Node.js/Nest.js/Express.js, Golang, PHP/Laravel/WordPress, Ruby on rails, C#/ASP.NET
 
 ✔️ Testing Library: Jest, Cypress, React Testing library
 
