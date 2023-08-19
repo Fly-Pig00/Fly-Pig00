@@ -5,7 +5,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
-<h3> 🧑 I'm a Sr. Full Stack Blockchain Developer!!!</h3>
+<h3> 🧑 I'm a Sr. Full Stack Developer!!!</h3>
 
 - 🌱 I’m currently learning **Everything 🤣**
 
@@ -18,11 +18,9 @@
 
 ✔️ Frontend Development: React/Next.js, Vue.js, Angular, HTML, CSS, JavaScript(ES6)/TypeScript, Bootstrap, Material UI, Tailwind CSS
 
-✔️ Backend Development: Node.js/Nest.js/Express.js, Golang, PHP/Laravel, Rust, Ruby on rails, Python/Django/Flask, C#/ASP.NET
+✔️ Backend Development: Node.js/Nest.js/Express.js, PHP/Laravel, Ruby on rails, Python/Django/Flask
 
 ✔️ Testing Library: Jest, Cypress, React Testing library
-
-✔️ Blockchain Development: Web3.js, Solidity, Rust, Smart Contract, DApp Development, CosmosSDK
 
 ✔️ API Integration: Restful APIs, GraphQL, Hasura, Stripe API, OpenAI, Twilio
 
