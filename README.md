@@ -16,15 +16,15 @@
 
 <h3> My skills: </h3>
 
-✔️ Frontend Development: React/Next.js, Vue.js, Angular, HTML, CSS, JavaScript(ES6)/TypeScript, Bootstrap, Material UI, Tailwind CSS
+✔️ Frontend Development: React, React Native, Next.js, Vue.js, Angular, GraphQL, HTML, CSS, JavaScript(ES6)/TypeScript, Bootstrap, Material UI, Tailwind CSS
 
-✔️ Backend Development: Node.js/Nest.js/Express.js, PHP/Laravel, Ruby on rails, Python/Django/Flask
+✔️ Backend Development: Node.js, Express.js, Nest.js, PHP, Laravel, Ruby on rails, Python, Django, Flask
 
 ✔️ Testing Library: Jest, Cypress, React Testing library
 
-✔️ API Integration: Restful APIs, GraphQL, Hasura, Stripe API, OpenAI, Twilio
+✔️ API Integration: Restful APIs, Stripe API, OpenAI, Twilio
 
-✔️ Cloud: AWS, Microsoft Azure, GCP
+✔️ Cloud: AWS, Microsoft Azure, GCP, Hasura, Heroku
 
 ✔️ Others: Git, Github, Bitbucket, Gitlab, Jira, Trello, Slack
 
