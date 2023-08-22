@@ -16,7 +16,7 @@
 
 <h3> My skills: </h3>
 
-✔️ Frontend Development: React, React Native, Next.js, Vue.js, Angular, GraphQL, HTML, CSS, JavaScript(ES6)/TypeScript, Bootstrap, Material UI, Tailwind CSS
+✔️ Frontend Development: React, React Native, Sanity, Next.js, Vue.js, Angular, GraphQL, HTML, CSS, JavaScript(ES6)/TypeScript, Bootstrap, Material UI, Tailwind CSS
 
 ✔️ Backend Development: Node.js, Express.js, Nest.js, PHP, Laravel, Ruby on rails, Python, Django, Flask
 
