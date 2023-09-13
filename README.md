@@ -5,7 +5,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
-<h3> 🧑 I'm a Sr. Full Stack Developer!!!</h3>
+<h3> 🧑 I'm a Sr. Full Stack Blockchain Developer!!!</h3>
 
 - 🌱 I’m currently learning **Everything 🤣**
 
