@@ -20,7 +20,7 @@
 
 ✔️ Backend Development: Node.js, Express.js, Nest.js, PHP, Laravel, Ruby on rails, Python, Django, Flask
 
-✔️ Blockchain Development: Solidity, Golang, Smart Contract, dAPP Development, Web3.js, Ethers.js
+✔️ Blockchain Development: Solidity, Golang, Rust, Solana, Ethereum, Smart Contract, dAPP Development, Web3.js, Ethers.js
 
 ✔️ Testing Library: Jest, Cypress, React Testing library
 
